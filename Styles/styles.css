@@ -46,6 +46,6 @@ nav li{
 }
 @media screen and (max-width:576px) {
     .featuredCards{
-        animation-range: entry 0 15%;
+        animation-range: entry 0 5%;
     }
 }
